@@ -18,6 +18,8 @@ npm install -g nodemon
 npm install -g phantomjs
 npm install -g protractor
 npm install -g typescript
+npm install -g eslint
+npm install -g tslint
 npm install -g typings
 npm install -g nvm
 npm install -g angular-cli
