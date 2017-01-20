@@ -23,3 +23,12 @@ npm install -g tslint
 npm install -g typings
 npm install -g nvm
 npm install -g angular-cli
+npm install -g yarn
+npm install -g less
+npm install -g less-watch-compiler
+npm install -g live-server
+npm install -g rimraf
+npm install -g tsd
+npm install -g typings
+npm install -g webpack
+npm install -g webpack-dev-server
